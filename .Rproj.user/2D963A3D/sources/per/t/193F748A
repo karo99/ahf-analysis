@@ -1,0 +1,25 @@
+{
+    "id": "193F748A",
+    "path": "D:/SEMESTR VI/PRACA LICENCJACKA/shiny-app/medical-app/server.R",
+    "project_path": "medical-app/server.R",
+    "type": "r_source",
+    "hash": "1647586642",
+    "contents": "",
+    "dirty": false,
+    "created": 1621458938191.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "60,0",
+        "scrollLine": "48",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622569768,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622569768278,
+    "read_only": false,
+    "read_only_alternatives": []
+}

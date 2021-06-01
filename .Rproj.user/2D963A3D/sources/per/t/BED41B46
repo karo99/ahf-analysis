@@ -1,0 +1,25 @@
+{
+    "id": "BED41B46",
+    "path": "D:/SEMESTR VI/PRACA LICENCJACKA/shiny-app/medical-app/ui.R",
+    "project_path": "medical-app/ui.R",
+    "type": "r_source",
+    "hash": "3708592241",
+    "contents": "",
+    "dirty": false,
+    "created": 1621458938079.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "26,6",
+        "scrollLine": "22",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1622569268,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1622569268671,
+    "read_only": false,
+    "read_only_alternatives": []
+}

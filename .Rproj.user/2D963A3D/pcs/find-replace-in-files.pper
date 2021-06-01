@@ -1,0 +1,13 @@
+{
+    "dialog-state": {
+        "query": "czas_fu",
+        "path": "D:/SEMESTR VI/PRACA LICENCJACKA/shiny-app",
+        "regex": false,
+        "caseSensitive": false,
+        "filePatterns": [],
+        "excludeFilePatterns": [],
+        "resultsCount": 2,
+        "errorCount": 0,
+        "replaceErrors": ""
+    }
+}

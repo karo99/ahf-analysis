@@ -1,0 +1,13 @@
+name: ahf-analysis
+title: ahf-analysis
+username:
+account: karo99
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4201155
+bundleId: 4665555
+url: https://karo99.shinyapps.io/ahf-analysis/
+when: 1622569784.33649
+lastSyncTime: 1622569784.33649
+asMultiple: FALSE
+asStatic: FALSE
